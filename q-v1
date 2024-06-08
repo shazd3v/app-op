@@ -1,0 +1,206 @@
+{
+  "status": "success",
+  "message": "Data retrieved successfully",
+  "data": {
+    "videos": [
+      {
+        "id": 1,
+        "videoUrl": "https://youtu.be/uT7b4Xk9gws",
+        "videoTitle": "রাজধানীর পরিচিতি",
+        "videoDuration": "28",
+        "isVideoWatched": false,
+        "isQuizPassed": false,
+        "nextVideo": 2,
+        "prevVideo": null,
+        "questions": [
+          {
+            "id": 1,
+            "videoId": 1,
+            "question": "বাংলাদেশের রাজধানী কি?",
+            "options": [
+              {
+                "id": 1,
+                "text": "ঢাকা"
+              },
+              {
+                "id": 2,
+                "text": "চট্টগ্রাম"
+              },
+              {
+                "id": 3,
+                "text": "খুলনা"
+              },
+              {
+                "id": 4,
+                "text": "রাজশাহী"
+              }
+            ],
+            "correctAnswer": {
+              "id": 1,
+              "text": "ঢাকা"
+            }
+          },
+          {
+            "id": 2,
+            "videoId": 1,
+            "question": "জাপানের রাজধানী কোনটি?",
+            "options": [
+              {
+                "id": 1,
+                "text": "টোকিও"
+              },
+              {
+                "id": 2,
+                "text": "কিয়োটো"
+              },
+              {
+                "id": 3,
+                "text": "ওসাকা"
+              },
+              {
+                "id": 4,
+                "text": "নাগাসাকি"
+              }
+            ],
+            "correctAnswer": {
+              "id": 1,
+              "text": "টোকিও"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "videoUrl": "https://youtu.be/gavLSItrxzw",
+        "videoTitle": "সৌরজগতের অন্বেষণ",
+        "videoDuration": "26",
+        "isVideoWatched": false,
+        "isQuizPassed": false,
+        "nextVideo": 3,
+        "prevVideo": 1,
+        "questions": [
+          {
+            "id": 3,
+            "videoId": 2,
+            "question": "পৃথিবীর উপগ্রহের নাম কি?",
+            "options": [
+              {
+                "id": 1,
+                "text": "চাঁদ"
+              },
+              {
+                "id": 2,
+                "text": "ফোবোস"
+              },
+              {
+                "id": 3,
+                "text": "ডিমোস"
+              },
+              {
+                "id": 4,
+                "text": "ইও"
+              }
+            ],
+            "correctAnswer": {
+              "id": 1,
+              "text": "চাঁদ"
+            }
+          },
+          {
+            "id": 4,
+            "videoId": 2,
+            "question": "মঙ্গল গ্রহের কয়টি উপগ্রহ আছে?",
+            "options": [
+              {
+                "id": 1,
+                "text": "১"
+              },
+              {
+                "id": 2,
+                "text": "২"
+              },
+              {
+                "id": 3,
+                "text": "৩"
+              },
+              {
+                "id": 4,
+                "text": "৪"
+              }
+            ],
+            "correctAnswer": {
+              "id": 2,
+              "text": "২"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "videoUrl": "https://youtu.be/BwIm6rGEQUo",
+        "videoTitle": "সাহিত্যিক ক্লাসিকস",
+        "videoDuration": "28",
+        "isVideoWatched": false,
+        "isQuizPassed": false,
+        "nextVideo": null,
+        "prevVideo": 2,
+        "questions": [
+          {
+            "id": 5,
+            "videoId": 3,
+            "question": "রবীন্দ্রনাথ ঠাকুরের একটি বিখ্যাত উপন্যাস কোনটি?",
+            "options": [
+              {
+                "id": 1,
+                "text": "গোরা"
+              },
+              {
+                "id": 2,
+                "text": "পথের পাঁচালী"
+              },
+              {
+                "id": 3,
+                "text": "চোখের বালি"
+              },
+              {
+                "id": 4,
+                "text": "দেবদাস"
+              }
+            ],
+            "correctAnswer": {
+              "id": 1,
+                "text": "গোরা"
+            }
+          },
+          {
+            "id": 6,
+            "videoId": 3,
+            "question": "মাইকেল মধুসূদন দত্তের একটি বিখ্যাত কাব্যগ্রন্থের নাম কি?",
+            "options": [
+              {
+                "id": 1,
+                "text": "মেঘনাদবধ কাব্য"
+              },
+              {
+                "id": 2,
+                "text": "রামায়ণ"
+              },
+              {
+                "id": 3,
+                "text": "মহাভারত"
+              },
+              {
+                "id": 4,
+                "text": "বিদ্যাসুন্দর"
+              }
+            ],
+            "correctAnswer": {
+              "id": 1,
+                "text": "মেঘনাদবধ কাব্য"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
