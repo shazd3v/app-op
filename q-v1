@@ -1,5 +1,5 @@
 {
-  "status": "success",
+  "status": "S100000",
   "message": "Data retrieved successfully",
   "data": {
     "videos": [
