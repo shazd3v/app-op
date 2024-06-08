@@ -130,7 +130,7 @@
             ],
             "correctAnswer": {
               "id": "nOp56",
-              "text": "চাঁদ"
+                "text": "চাঁদ"
             }
           },
           {
@@ -157,7 +157,7 @@
             ],
             "correctAnswer": {
               "id": "jKl56",
-              "text": "২"
+                "text": "২"
             }
           },
           {
@@ -184,7 +184,7 @@
             ],
             "correctAnswer": {
               "id": "dEf78",
-              "text": "৮২"
+                "text": "৮২"
             }
           }
         ]
@@ -223,7 +223,7 @@
             ],
             "correctAnswer": {
               "id": "hIj90",
-              "text": "গোরা"
+                "text": "গোরা"
             }
           },
           {
@@ -250,7 +250,7 @@
             ],
             "correctAnswer": {
               "id": "uVw78",
-              "text": "মেঘনাদবধ কাব্য"
+                "text": "মেঘনাদবধ কাব্য"
             }
           },
           {
