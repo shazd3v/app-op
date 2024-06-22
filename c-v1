@@ -1,0 +1,55 @@
+{
+  "status": "S100000",
+  "message": "Data retrieved successfully",
+  "data": {
+    "slides": [
+      {
+        "id": "1",
+        "imageUrl": "https://cmms.com.bd/wp-content/uploads/2022/09/cmms-Dessimination-Seminar-PhotoKnowledge-Fair-IBA-DU-13_1-1.jpg",
+        "title": "CMMS Dissemination Seminar Photo Knowledge Fair",
+        "scaleType": "fit"
+      },
+      {
+        "id": "2",
+        "imageUrl": "https://cmms.com.bd/wp-content/uploads/2022/09/cmms-dissemination-bmc-2019-16_1-1.jpg",
+        "title": "CMMS Dissemination BMC 2019",
+        "scaleType": "fit"
+      },
+      {
+        "id": "3",
+        "imageUrl": "https://cmms.com.bd/wp-content/uploads/2022/09/SYP_Bishwa-Shahitta-Kendra_10-2-1.jpg",
+        "title": "SYP Bishwa Shahitta Kendra",
+        "scaleType": "fit"
+      },
+      {
+        "id": "4",
+        "imageUrl": "https://cmms.com.bd/wp-content/uploads/2022/09/cmms-dessimination-seminar-begum-rokeya-niversity-287-2-2.jpg",
+        "title": "CMMS Dissemination Seminar Begum Rokeya University",
+        "scaleType": "fit"
+      }
+    ],
+    "socialMedia": [
+      {"id": "1", "title": "Website", "link": "https://www.example.com"},
+      {
+        "id"   : "2"                                   ,
+        "title": "Facebook Page"                       ,
+        "link" : "https://www.facebook.com/examplepage"
+      }
+    ],
+    "contacts": [
+      {"id": "1", "title": "Phone", "detail": "+1234567890"},
+      {"id": "2", "title": "Mobile", "detail": "+0987654321"},
+      {
+        "id"    : "3"                                         ,
+        "title" : "Address"                                   ,
+        "detail": "123 Example Street, Example City, EX 12345"
+      },
+      {"id": "4", "title": "Email", "detail": "demo@email.com"}
+    ],
+    "configs": {
+      "isMaintenanceMode": true,
+      "splashLogo": "https://www.example.com/splash-logo.png",
+      "appVersion": "1.0.0"
+    }
+  }
+}
