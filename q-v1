@@ -18,81 +18,36 @@
             "videoId": 1,
             "question": "বাংলাদেশের রাজধানী কি?",
             "options": [
-              {
-                "id": "xYz12",
-                "text": "ঢাকা"
-              },
-              {
-                "id": "aBc34",
-                "text": "চট্টগ্রাম"
-              },
-              {
-                "id": "qRs56",
-                "text": "খুলনা"
-              },
-              {
-                "id": "lMn78",
-                "text": "রাজশাহী"
-              }
+              {"id": "xYz12", "text": "ঢাকা"     },
+              {"id": "aBc34", "text": "চট্টগ্রাম"},
+              {"id": "qRs56", "text": "খুলনা"    },
+              {"id": "lMn78", "text": "রাজশাহী"  }
             ],
-            "correctAnswer": {
-              "id": "xYz12",
-              "text": "ঢাকা"
-            }
+            "correctAnswer": {"id": "xYz12", "text": "ঢাকা"}
           },
           {
             "id": 2,
             "videoId": 1,
             "question": "জাপানের রাজধানী কোনটি?",
             "options": [
-              {
-                "id": "pQr98",
-                "text": "টোকিও"
-              },
-              {
-                "id": "wXy12",
-                "text": "কিয়োটো"
-              },
-              {
-                "id": "eFg34",
-                "text": "ওসাকা"
-              },
-              {
-                "id": "hIj56",
-                "text": "নাগাসাকি"
-              }
+              {"id": "pQr98", "text": "টোকিও"   },
+              {"id": "wXy12", "text": "কিয়োটো"  },
+              {"id": "eFg34", "text": "ওসাকা"   },
+              {"id": "hIj56", "text": "নাগাসাকি"}
             ],
-            "correctAnswer": {
-              "id": "pQr98",
-              "text": "টোকিও"
-            }
+            "correctAnswer": {"id": "pQr98", "text": "টোকিও"}
           },
           {
             "id": 3,
             "videoId": 1,
             "question": "ভারতের রাজধানী কি?",
             "options": [
-              {
-                "id": "kLm78",
-                "text": "দিল্লি"
-              },
-              {
-                "id": "uVw90",
-                "text": "মুম্বাই"
-              },
-              {
-                "id": "rSt12",
-                "text": "কলকাতা"
-              },
-              {
-                "id": "oPq34",
-                "text": "চেন্নাই"
-              }
+              {"id": "kLm78", "text": "দিল্লি" },
+              {"id": "uVw90", "text": "মুম্বাই"},
+              {"id": "rSt12", "text": "কলকাতা" },
+              {"id": "oPq34", "text": "চেন্নাই"}
             ],
-            "correctAnswer": {
-              "id": "kLm78",
-                "text": "দিল্লি"
-            }
+            "correctAnswer": {"id": "kLm78", "text": "দিল্লি"}
           }
         ]
       },
@@ -111,81 +66,36 @@
             "videoId": 2,
             "question": "পৃথিবীর উপগ্রহের নাম কি?",
             "options": [
-              {
-                "id": "nOp56",
-                "text": "চাঁদ"
-              },
-              {
-                "id": "vWx78",
-                "text": "ফোবোস"
-              },
-              {
-                "id": "yZa90",
-                "text": "ডিমোস"
-              },
-              {
-                "id": "bCd12",
-                "text": "ইও"
-              }
+              {"id": "nOp56", "text": "চাঁদ" },
+              {"id": "vWx78", "text": "ফোবোস"},
+              {"id": "yZa90", "text": "ডিমোস"},
+              {"id": "bCd12", "text": "ইও"   }
             ],
-            "correctAnswer": {
-              "id": "nOp56",
-                "text": "চাঁদ"
-            }
+            "correctAnswer": {"id": "nOp56", "text": "চাঁদ"}
           },
           {
             "id": 5,
             "videoId": 2,
             "question": "মঙ্গল গ্রহের কয়টি উপগ্রহ আছে?",
             "options": [
-              {
-                "id": "gHi34",
-                "text": "১"
-              },
-              {
-                "id": "jKl56",
-                "text": "২"
-              },
-              {
-                "id": "mNo78",
-                "text": "৩"
-              },
-              {
-                "id": "qRs90",
-                "text": "৪"
-              }
+              {"id": "gHi34", "text": "১"},
+              {"id": "jKl56", "text": "২"},
+              {"id": "mNo78", "text": "৩"},
+              {"id": "qRs90", "text": "৪"}
             ],
-            "correctAnswer": {
-              "id": "jKl56",
-                "text": "২"
-            }
+            "correctAnswer": {"id": "jKl56", "text": "২"}
           },
           {
             "id": 6,
             "videoId": 2,
             "question": "শনি গ্রহের কয়টি উপগ্রহ আছে?",
             "options": [
-              {
-                "id": "tUv12",
-                "text": "৫৩"
-              },
-              {
-                "id": "xYz34",
-                "text": "৬২"
-              },
-              {
-                "id": "aBc56",
-                "text": "৭৯"
-              },
-              {
-                "id": "dEf78",
-                "text": "৮২"
-              }
+              {"id": "tUv12", "text": "৫৩"},
+              {"id": "xYz34", "text": "৬২"},
+              {"id": "aBc56", "text": "৭৯"},
+              {"id": "dEf78", "text": "৮২"}
             ],
-            "correctAnswer": {
-              "id": "dEf78",
-                "text": "৮২"
-            }
+            "correctAnswer": {"id": "dEf78", "text": "৮২"}
           }
         ]
       },
@@ -204,81 +114,36 @@
             "videoId": 3,
             "question": "রবীন্দ্রনাথ ঠাকুরের একটি বিখ্যাত উপন্যাস কোনটি?",
             "options": [
-              {
-                "id": "hIj90",
-                "text": "গোরা"
-              },
-              {
-                "id": "kLm12",
-                "text": "পথের পাঁচালী"
-              },
-              {
-                "id": "nOp34",
-                "text": "চোখের বালি"
-              },
-              {
-                "id": "rSt56",
-                "text": "দেবদাস"
-              }
+              {"id": "hIj90", "text": "গোরা"        },
+              {"id": "kLm12", "text": "পথের পাঁচালী"},
+              {"id": "nOp34", "text": "চোখের বালি"  },
+              {"id": "rSt56", "text": "দেবদাস"      }
             ],
-            "correctAnswer": {
-              "id": "hIj90",
-                "text": "গোরা"
-            }
+            "correctAnswer": {"id": "hIj90", "text": "গোরা"}
           },
           {
             "id": 8,
             "videoId": 3,
             "question": "মাইকেল মধুসূদন দত্তের একটি বিখ্যাত কাব্যগ্রন্থের নাম কি?",
             "options": [
-              {
-                "id": "uVw78",
-                "text": "মেঘনাদবধ কাব্য"
-              },
-              {
-                "id": "szN4C",
-                "text": "রামায়ণ"
-              },
-              {
-                "id": "BCJzl",
-                "text": "মহাভারত"
-              },
-              {
-                "id": "dEf56",
-                "text": "বিদ্যাসুন্দর"
-              }
+              {"id": "uVw78", "text": "মেঘনাদবধ কাব্য"},
+              {"id": "szN4C", "text": "রামায়ণ"       },
+              {"id": "BCJzl", "text": "মহাভারত"       },
+              {"id": "dEf56", "text": "বিদ্যাসুন্দর"  }
             ],
-            "correctAnswer": {
-              "id": "uVw78",
-                "text": "মেঘনাদবধ কাব্য"
-            }
+            "correctAnswer": {"id": "uVw78", "text": "মেঘনাদবধ কাব্য"}
           },
           {
             "id": 9,
             "videoId": 3,
             "question": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের একটি বিখ্যাত উপন্যাস কোনটি?",
             "options": [
-              {
-                "id": "gHi90",
-                "text": "আনন্দমঠ"
-              },
-              {
-                "id": "jKl12",
-                "text": "চরিত্রহীন"
-              },
-              {
-                "id": "mNo34",
-                "text": "দেবী চৌধুরাণী"
-              },
-              {
-                "id": "pQr56",
-                "text": "কপালকুণ্ডলা"
-              }
+              {"id": "gHi90", "text": "আনন্দমঠ"      },
+              {"id": "jKl12", "text": "চরিত্রহীন"    },
+              {"id": "mNo34", "text": "দেবী চৌধুরাণী"},
+              {"id": "pQr56", "text": "কপালকুণ্ডলা"  }
             ],
-            "correctAnswer": {
-              "id": "gHi90",
-                "text": "আনন্দমঠ"
-            }
+            "correctAnswer": {"id": "gHi90", "text": "আনন্দমঠ"}
           }
         ]
       }
