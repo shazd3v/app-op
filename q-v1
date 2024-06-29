@@ -5,146 +5,493 @@
     "videos": [
       {
         "id": 1,
-        "videoUrl": "https://youtu.be/uT7b4Xk9gws",
-        "videoTitle": "রাজধানীর পরিচিতি",
-        "videoDuration": "28",
+        "videoUrl": "https://youtu.be/ApJwyIVXB1s",
+        "videoTitle": "স্ত্রীর অসম্মতিতে শারিরীক সর্ম্পক",
+        "videoDuration": "80",
         "isVideoWatched": false,
         "isQuizPassed": false,
-        "nextVideo": 2,
+        "nextVideo": "Vd2bB",
         "prevVideo": null,
         "questions": [
           {
-            "id": 1,
-            "videoId": 1,
-            "question": "বাংলাদেশের রাজধানী কি?",
+            "id": "Q1cDe",
+            "videoId": "Vd1aA",
+            "question": "How much is 1 + 1?",
             "options": [
-              {"id": "xYz12", "text": "ঢাকা"     },
-              {"id": "aBc34", "text": "চট্টগ্রাম"},
-              {"id": "qRs56", "text": "খুলনা"    },
-              {"id": "lMn78", "text": "রাজশাহী"  }
+              {
+                "id": "Op1aB",
+                "text": "1"
+              },
+              {
+                "id": "Op2bC",
+                "text": "2"
+              },
+              {
+                "id": "Op3cD",
+                "text": "3"
+              },
+              {
+                "id": "Op4dE",
+                "text": "4"
+              }
             ],
-            "correctAnswer": {"id": "xYz12", "text": "ঢাকা"}
+            "correctAnswer": {
+              "id": "Op2bC",
+              "text": "2"
+            }
           },
           {
-            "id": 2,
-            "videoId": 1,
-            "question": "জাপানের রাজধানী কোনটি?",
+            "id": "Q2dEf",
+            "videoId": "Vd1aA",
+            "question": "How much is 5 plus 5?",
             "options": [
-              {"id": "pQr98", "text": "টোকিও"   },
-              {"id": "wXy12", "text": "কিয়োটো"  },
-              {"id": "eFg34", "text": "ওসাকা"   },
-              {"id": "hIj56", "text": "নাগাসাকি"}
+              {
+                "id": "Op5eF",
+                "text": "5"
+              },
+              {
+                "id": "Op6fG",
+                "text": "10"
+              },
+              {
+                "id": "Op7gH",
+                "text": "15"
+              },
+              {
+                "id": "Op8hI",
+                "text": "20"
+              }
             ],
-            "correctAnswer": {"id": "pQr98", "text": "টোকিও"}
-          },
-          {
-            "id": 3,
-            "videoId": 1,
-            "question": "ভারতের রাজধানী কি?",
-            "options": [
-              {"id": "kLm78", "text": "দিল্লি" },
-              {"id": "uVw90", "text": "মুম্বাই"},
-              {"id": "rSt12", "text": "কলকাতা" },
-              {"id": "oPq34", "text": "চেন্নাই"}
-            ],
-            "correctAnswer": {"id": "kLm78", "text": "দিল্লি"}
+            "correctAnswer": {
+              "id": "Op6fG",
+              "text": "10"
+            }
           }
+        ],
+        "learningPoints": [
+          "স্ত্রীর অসম্মতিতে শারিরীক সর্ম্পক এর ধারণা পাবেন",
+          "স্ত্রীর অসম্মতিতে শারিরীক সর্ম্পক যে যৌন নিপীড়নের একটি রূপ তা জানবেন",
+          "দাম্পত্য জিবনে স্ত্রীর অসম্মতিতে শারিরীক সর্ম্পকের ক্ষতিকর প্রভাবগুলো সম্পর্কে জানবেন"
         ]
       },
       {
         "id": 2,
-        "videoUrl": "https://youtu.be/gavLSItrxzw",
-        "videoTitle": "সৌরজগতের অন্বেষণ",
-        "videoDuration": "26",
+        "videoUrl": "https://youtu.be/pXCwFQF8p40",
+        "videoTitle": "স্ত্রীকে অসম্মান / মানসিক নির্যাতন",
+        "videoDuration": "83",
         "isVideoWatched": false,
         "isQuizPassed": false,
-        "nextVideo": 3,
-        "prevVideo": 1,
+        "nextVideo": "Vd3cC",
+        "prevVideo": "Vd1aA",
         "questions": [
           {
-            "id": 4,
-            "videoId": 2,
-            "question": "পৃথিবীর উপগ্রহের নাম কি?",
+            "id": "Q3eFg",
+            "videoId": "Vd2bB",
+            "question": "How much is 1 + 1?",
             "options": [
-              {"id": "nOp56", "text": "চাঁদ" },
-              {"id": "vWx78", "text": "ফোবোস"},
-              {"id": "yZa90", "text": "ডিমোস"},
-              {"id": "bCd12", "text": "ইও"   }
+              {
+                "id": "Op9iJ",
+                "text": "1"
+              },
+              {
+                "id": "Op10jK",
+                "text": "2"
+              },
+              {
+                "id": "Op11kL",
+                "text": "3"
+              },
+              {
+                "id": "Op12lM",
+                "text": "4"
+              }
             ],
-            "correctAnswer": {"id": "nOp56", "text": "চাঁদ"}
+            "correctAnswer": {
+              "id": "Op10jK",
+              "text": "2"
+            }
           },
           {
-            "id": 5,
-            "videoId": 2,
-            "question": "মঙ্গল গ্রহের কয়টি উপগ্রহ আছে?",
+            "id": "Q4fGh",
+            "videoId": "Vd2bB",
+            "question": "How much is 5 plus 5?",
             "options": [
-              {"id": "gHi34", "text": "১"},
-              {"id": "jKl56", "text": "২"},
-              {"id": "mNo78", "text": "৩"},
-              {"id": "qRs90", "text": "৪"}
+              {
+                "id": "Op13mN",
+                "text": "5"
+              },
+              {
+                "id": "Op14nO",
+                "text": "10"
+              },
+              {
+                "id": "Op15oP",
+                "text": "15"
+              },
+              {
+                "id": "Op16pQ",
+                "text": "20"
+              }
             ],
-            "correctAnswer": {"id": "jKl56", "text": "২"}
-          },
-          {
-            "id": 6,
-            "videoId": 2,
-            "question": "শনি গ্রহের কয়টি উপগ্রহ আছে?",
-            "options": [
-              {"id": "tUv12", "text": "৫৩"},
-              {"id": "xYz34", "text": "৬২"},
-              {"id": "aBc56", "text": "৭৯"},
-              {"id": "dEf78", "text": "৮২"}
-            ],
-            "correctAnswer": {"id": "dEf78", "text": "৮২"}
+            "correctAnswer": {
+              "id": "Op14nO",
+              "text": "10"
+            }
           }
+        ],
+        "learningPoints": [
+          "বাংলাদেশের প্রেক্ষাপটে স্ত্রীরা কী কী ভাবে স্বামী কতৃক মানসিক নির্যাতনের শিকার হতে পারে তা সম্পর্কে ধারণা লাভ করবেন",
+          "মানসিক নির্যাতনের পরিণতি সর্ম্পকে ধারণা পাবেন"
         ]
       },
       {
         "id": 3,
-        "videoUrl": "https://youtu.be/BwIm6rGEQUo",
-        "videoTitle": "সাহিত্যিক ক্লাসিকস",
-        "videoDuration": "28",
+        "videoUrl": "https://youtu.be/aGcsJ5h2WVY",
+        "videoTitle": "বাংলাদেশের পুরুষদের ধারণায় দাম্পত্য সম্পর্ক",
+        "videoDuration": "111",
+        "isVideoWatched": false,
+        "isQuizPassed": false,
+        "nextVideo": "Vd4dD",
+        "prevVideo": "Vd2bB",
+        "questions": [
+          {
+            "id": "Q5gHi",
+            "videoId": "Vd3cC",
+            "question": "How much is 1 + 1?",
+            "options": [
+              {
+                "id": "Op17qR",
+                "text": "1"
+              },
+              {
+                "id": "Op18rS",
+                "text": "2"
+              },
+              {
+                "id": "Op19sT",
+                "text": "3"
+              },
+              {
+                "id": "Op20tU",
+                "text": "4"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op18rS",
+              "text": "2"
+            }
+          },
+          {
+            "id": "Q6hIj",
+            "videoId": "Vd3cC",
+            "question": "How much is 5 plus 5?",
+            "options": [
+              {
+                "id": "Op21uV",
+                "text": "5"
+              },
+              {
+                "id": "Op22vW",
+                "text": "10"
+              },
+              {
+                "id": "Op23wX",
+                "text": "15"
+              },
+              {
+                "id": "Op24xY",
+                "text": "20"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op22vW",
+              "text": "10"
+            }
+          }
+        ],
+        "learningPoints": [
+          "বাংলাদেশে পুরুষরা দাম্পত্য সম্পর্ককে কীভাবে দেখেন তা সম্পর্কে ধারণা লাভ করবেন",
+          "ব্যক্তি জীবনে সমঝোতাপূর্ণ/ সমঝোতাহীন দাম্পত্য সম্পর্কের প্রভাব বিষয়ে ধারণা পাবেন"
+        ]
+      },
+      {
+        "id": 4,
+        "videoUrl": "https://youtu.be/HDmd0Xrq-WE",
+        "videoTitle": "মাদক গ্রহনের সাথে দাম্পত্য সম্পর্কের সংশ্লিষ্টতা",
+        "videoDuration": "120",
+        "isVideoWatched": false,
+        "isQuizPassed": false,
+        "nextVideo": "Vd5eE",
+        "prevVideo": "Vd3cC",
+        "questions": [
+          {
+            "id": "Q7jKl",
+            "videoId": "Vd4dD",
+            "question": "How much is 1 + 1?",
+            "options": [
+              {
+                "id": "Op25yZ",
+                "text": "1"
+              },
+              {
+                "id": "Op26zA",
+                "text": "2"
+              },
+              {
+                "id": "Op27aB",
+                "text": "3"
+              },
+              {
+                "id": "Op28bC",
+                "text": "4"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op26zA",
+              "text": "2"
+            }
+          },
+          {
+            "id": "Q8kLm",
+            "videoId": "Vd4dD",
+            "question": "How much is 5 plus 5?",
+            "options": [
+              {
+                "id": "Op29cD",
+                "text": "5"
+              },
+              {
+                "id": "Op30dE",
+                "text": "10"
+              },
+              {
+                "id": "Op31eF",
+                "text": "15"
+              },
+              {
+                "id": "Op32fG",
+                "text": "20"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op30dE",
+              "text": "10"
+            }
+          }
+        ],
+        "learningPoints": [
+          "দাম্পত্য সম্পর্ক ও মাদক গ্রহন বিষয়ে বাংলাদেশের পুরুষদের ধারণা জানবেন",
+          "মাদক গ্রহনকারীর দাম্পত্য সম্পর্কের পরিণতি বিষয়ে ধারণা পাবেন"
+        ]
+      },
+      {
+        "id": 5,
+        "videoUrl": "https://youtu.be/GW0CvUMRNo8",
+        "videoTitle": "একটি সুখী পরিবার মানে সম্মানজনক বৈবাহিক/দাম্পত্য জীবন",
+        "videoDuration": "120",
+        "isVideoWatched": false,
+        "isQuizPassed": false,
+        "nextVideo": "Vd6fF",
+        "prevVideo": "Vd4dD",
+        "questions": [
+          {
+            "id": "Q9lMn",
+            "videoId": "Vd5eE",
+            "question": "How much is 1 + 1?",
+            "options": [
+              {
+                "id": "Op33gH",
+                "text": "1"
+              },
+              {
+                "id": "Op34hI",
+                "text": "2"
+              },
+              {
+                "id": "Op35iJ",
+                "text": "3"
+              },
+              {
+                "id": "Op36jK",
+                "text": "4"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op34hI",
+              "text": "2"
+            }
+          },
+          {
+            "id": "Q10mNo",
+            "videoId": "Vd5eE",
+            "question": "How much is 5 plus 5?",
+            "options": [
+              {
+                "id": "Op37kL",
+                "text": "5"
+              },
+              {
+                "id": "Op38lM",
+                "text": "10"
+              },
+              {
+                "id": "Op39mN",
+                "text": "15"
+              },
+              {
+                "id": "Op40nO",
+                "text": "20"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op38lM",
+              "text": "10"
+            }
+          }
+        ],
+        "learningPoints": [
+          "দাম্পত্য জীবনে পারস্পরিক সম্মান সম্পর্কে ধারণা পাবেন",
+          "একটি সুখী পরিবার গঠনে সম্মানজনক দাম্পত্য জীবনের প্রভাবগুলি জানবেন"
+        ]
+      },
+      {
+        "id": 6,
+        "videoUrl": "https://youtu.be/NXK5R6WNpk0",
+        "videoTitle": "দাম্পত্য সম্পর্কে যৌন, শারীরিক ও মানসিক নির্যাতন",
+        "videoDuration": "120",
+        "isVideoWatched": false,
+        "isQuizPassed": false,
+        "nextVideo": "Vd7gG",
+        "prevVideo": "Vd5eE",
+        "questions": [
+          {
+            "id": "Q11nOp",
+            "videoId": "Vd6fF",
+            "question": "How much is 1 + 1?",
+            "options": [
+              {
+                "id": "Op41oP",
+                "text": "1"
+              },
+              {
+                "id": "Op42pQ",
+                "text": "2"
+              },
+              {
+                "id": "Op43qR",
+                "text": "3"
+              },
+              {
+                "id": "Op44rS",
+                "text": "4"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op42pQ",
+              "text": "2"
+            }
+          },
+          {
+            "id": "Q12oPq",
+            "videoId": "Vd6fF",
+            "question": "How much is 5 plus 5?",
+            "options": [
+              {
+                "id": "Op45sT",
+                "text": "5"
+              },
+              {
+                "id": "Op46tU",
+                "text": "10"
+              },
+              {
+                "id": "Op47uV",
+                "text": "15"
+              },
+              {
+                "id": "Op48vW",
+                "text": "20"
+              }
+            ],
+            "correctAnswer": {
+              "id": "Op46tU",
+              "text": "10"
+            }
+          }
+        ],
+        "learningPoints": [
+          "স্ত্রীর অসম্মতিতে শারিরীক সর্ম্পক, শারীরিক ও মানসিক নির্যাতনের ধারণা পাবেন",
+          "বাংলাদেশের সামাজিক প্রথা বা আচার-ব্যবহার কীভাবে স্বামী কর্তৃক স্ত্রী নির্যাতনকে প্রশ্রয় দেয় সে সম্পর্কে ধারণা পাবেন"
+        ]
+      },
+      {
+        "id": 7,
+        "videoUrl": "https://youtu.be/A2p4XMrpHxI",
+        "videoTitle": "স্ত্রীর সম্মতিপূর্ণ শারিরীক সর্ম্পক এবং স্ত্রীর  শরীর ও মনের যত্নের গুরুত্ব",
+        "videoDuration": "120",
         "isVideoWatched": false,
         "isQuizPassed": false,
         "nextVideo": null,
-        "prevVideo": 2,
+        "prevVideo": "Vd6fF",
         "questions": [
           {
-            "id": 7,
-            "videoId": 3,
-            "question": "রবীন্দ্রনাথ ঠাকুরের একটি বিখ্যাত উপন্যাস কোনটি?",
+            "id": "Q13pQr",
+            "videoId": "Vd7gG",
+            "question": "How much is 1 + 1?",
             "options": [
-              {"id": "hIj90", "text": "গোরা"        },
-              {"id": "kLm12", "text": "পথের পাঁচালী"},
-              {"id": "nOp34", "text": "চোখের বালি"  },
-              {"id": "rSt56", "text": "দেবদাস"      }
+              {
+                "id": "Op49wX",
+                "text": "1"
+              },
+              {
+                "id": "Op50xY",
+                "text": "2"
+              },
+              {
+                "id": "Op51yZ",
+                "text": "3"
+              },
+              {
+                "id": "Op52zA",
+                "text": "4"
+              }
             ],
-            "correctAnswer": {"id": "hIj90", "text": "গোরা"}
+            "correctAnswer": {
+              "id": "Op50xY",
+              "text": "2"
+            }
           },
           {
-            "id": 8,
-            "videoId": 3,
-            "question": "মাইকেল মধুসূদন দত্তের একটি বিখ্যাত কাব্যগ্রন্থের নাম কি?",
+            "id": "Q14qRs",
+            "videoId": "Vd7gG",
+            "question": "How much is 5 plus 5?",
             "options": [
-              {"id": "uVw78", "text": "মেঘনাদবধ কাব্য"},
-              {"id": "szN4C", "text": "রামায়ণ"       },
-              {"id": "BCJzl", "text": "মহাভারত"       },
-              {"id": "dEf56", "text": "বিদ্যাসুন্দর"  }
+              {
+                "id": "Op53aB",
+                "text": "5"
+              },
+              {
+                "id": "Op54bC",
+                "text": "10"
+              },
+              {
+                "id": "Op55cD",
+                "text": "15"
+              },
+              {
+                "id": "Op56dE",
+                "text": "20"
+              }
             ],
-            "correctAnswer": {"id": "uVw78", "text": "মেঘনাদবধ কাব্য"}
-          },
-          {
-            "id": 9,
-            "videoId": 3,
-            "question": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের একটি বিখ্যাত উপন্যাস কোনটি?",
-            "options": [
-              {"id": "gHi90", "text": "আনন্দমঠ"      },
-              {"id": "jKl12", "text": "চরিত্রহীন"    },
-              {"id": "mNo34", "text": "দেবী চৌধুরাণী"},
-              {"id": "pQr56", "text": "কপালকুণ্ডলা"  }
-            ],
-            "correctAnswer": {"id": "gHi90", "text": "আনন্দমঠ"}
+            "correctAnswer": {
+              "id": "Op54bC",
+              "text": "10"
+            }
           }
+        ],
+        "learningPoints": [
+          "স্ত্রীর সম্মতিপূর্ণ শারিরীক সর্ম্পক  বিষয়ে ধারণা পাবেন",
+          "গৃহস্থালী ও সেবা কাজে এবং স্ত্রীর শরীর ও মনের যত্নের নেয়ায় পুরুষের ভূমিকা সর্ম্পকে ধারণা  পাবেন"
         ]
       }
     ]
